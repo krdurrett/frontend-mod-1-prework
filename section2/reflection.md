@@ -1,13 +1,25 @@
 ## Section 2 Reflection
 
 1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between?
+I feel fairly comfortable asking questions. I recognize the utility of asking 'good' questions. Honestly, any question is a good
+question. I had to ask questions all the time in my career in pharmacy! Theres no way to know everything. As far as timing, i'd say i'm somewhere in between. I do like to see if I can solve an issue myself before reaching out.
 
 1. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node, and really sent you off to learn about functions by exploring several outside resources. How did that feel? What was uncomfortable about it? How did it support your learning?
+I actually really enjoyed this teaching/learning approach. It was helpful for me to have to remember (or look up) how to do some of the things I did in section 1. Having to find this information on my own forces me to practice and therefore helps me remember the material better.
 
 1. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
+A conditional statement is used to evaluate whether or not a condition is met. Conditionals always evaluate to 'true' or 'false'. They basically compare two values using a 'comparison operator'. If the condition evaluates to 'true', essentially this means that the condition is met, and therefore, the following code or script will execute. If the condition evaluates to 'false', that means the condition is not met, and that will either trigger a different script or code block, or it will just skip that code.
+In real life, an example of a conditional would be deciding what kind of shoes/footwear to put on before leaving the house. The values that would be compared in order to 'run the code' (decide which shoes to wear), would be what kind of weather was occuring outside. Is it warm/sunny? If that's true, then the following script of putting on sandals would run. If the answer to warm/sunny was false (perhaps it's raining), then the script of wearing sandals would be skipped or ignored, and you may choose tennis shoes to wear.
+There are tons of applications which would use conditionals, the first example I can think of is just entering a password into my bank accounts app. A conditional statement would evaluate whether the information given (the password I type in), matches the value expected when I enter my user name. If this conditional evaluates to 'true' (the password matches what they have on file), then the script runs (the app goes forward in to my account). If it evaluates to 'false' (my password doesn't match), the app will ask for my to re-enter my password.  
 
 1. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
+To add multiple conditions to an 'if' statement, you use the term 'else'. It's a way to control conditional instructions. They are referred to as 'if/else' statements.
+In JavaScript, if the first 'if' statement evaluates to 'true', the code runs and stops there. However, if the first 'if' statement evaluates to 'false', then the first code block is 'ignored', and the script goes on to the next 'else' statement. The next 'else' statement is also a conditional, and therefore would also evaluate to 'true' or 'false', leading to either executing the next code block or perhaps going on to the next 'else' statement.
 
 1. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
+If you want to check if two conditions are being met, you can use a logical operator. There are two logical operators, '&&' (and) and also '||' (or).
+You would use a '&&' logical operator if you'd like to check if two conditions evaluate to 'true', meaning both conditions are met. If both conditions are met, then the '&&' operator would evaluate to 'true', and the code runs. If one of the two conditions, or both, evaluates to 'false', then the '&&' operator would evaluate to false, and the code won't run.
+You would use a '||' logical operator if you'd like to check if one of two conditions (or both) evaluates to 'true'. With a '||' logical operator, if either one of the conditions (or both) are 'met', or evaluate to true, the '||' operator will evaluate to 'true', and the code will run. This operator only evaluates to 'false' if BOTH conditions are 'not met', ie if they both evaluate to 'false'. If this '||' evaluates to 'false', then the code won't run.
 
 1. What questions do you still have about `if` statements and/or functions?
+I'm still a little fuzzy on the some of the syntax around 'if/else' statements and functions. When to use (parentheses) and when to use 'quotes'. I had to play around with that a bit in some of the exercises. I just need to practice these concepts more.
