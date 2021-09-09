@@ -2,13 +2,13 @@
 Congrats on making it to the Mod 0 Final Prep! Complete the final exercises below and be sure to carefully follow the Pull Request steps to submit your work!
 
 ### Final Technical Prep
-You've learned a ton about some of the core foundations of Javascript! Show us how far you've come by completing the following exercises! You will be using your work from these exercises in your first day of Mod 1! 
+You've learned a ton about some of the core foundations of Javascript! Show us how far you've come by completing the following exercises! You will be using your work from these exercises in your first day of Mod 1!
 
-- [ ] Complete the [Mod Zero Hero Challenge](./modZeroHero.js)
-- [ ] Complete the [Annotation Challenge](./annotations.js) 
+- [X] Complete the [Mod Zero Hero Challenge](./modZeroHero.js)
+- [X] Complete the [Annotation Challenge](./annotations.js)
 
 ### Refactor Previous Work
-You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to `refactor` your code - which is the process of adjusting or improving your code for readability and accuracy. 
+You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to `refactor` your code - which is the process of adjusting or improving your code for readability and accuracy.
 
 Some things to consider as you refactor include...
 - Are my variable names easy to understand/convey the data type they are assigned to?
@@ -18,37 +18,43 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
-- [ ] I have refactored my `section2` exercises to the best of my ability
-- [ ] I have refactored my `section3` exercises to the best of my ability
-- [ ] I have refactored my `section4` exercises to the best of my ability
+- [X] I have refactored my `section1` exercises to the best of my ability
+- [X] I have refactored my `section2` exercises to the best of my ability
+- [X] I have refactored my `section3` exercises to the best of my ability
+- [X] I have refactored my `section4` exercises to the best of my ability
 
 ### Time Management Prep
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
-- [ ] Standard M1 class schedule (see M1 calendar [here](https://frontend.turing.io/today/))
-- [ ] Study/Project work time
-- [ ] Health + Wellness
+- [X] Standard M1 class schedule (see M1 calendar [here](https://frontend.turing.io/today/))
+- [X] Study/Project work time
+- [X] Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 - `Add Week 1 Screenshot Here`
+![Screen Shot 2021-09-08 at 4 51 57 PM](https://user-images.githubusercontent.com/88299275/132611151-c8c994d7-5c3c-431f-a844-1d5809e8bfc1.png)
 - `Add Week 2 Screenshot Here`
+![Screen Shot 2021-09-08 at 5 18 11 PM](https://user-images.githubusercontent.com/88299275/132611226-1123ee04-d490-43b7-993d-ed3ddcd5f663.png)
 - `Add Week 3 Screenshot Here`
+![Screen Shot 2021-09-08 at 5 26 46 PM](https://user-images.githubusercontent.com/88299275/132611265-fb619116-71be-41bb-bc67-15f1647c9b37.png)
 
 ### Mentorship Prep
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
-- [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+- [X] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
+  - [X] Add link to your gist here:
+  https://gist.github.com/krdurrett/d75d693bc396bb040965525f39deaf81#file-mentee_dtr_prep-md
 
 ### Lesson Prep
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
-- [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+- [X] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
+  - [X] Add a link to your gist here:
+  https://gist.github.com/krdurrett/7c9996864a7f56f0cf3d4393fb592c41
 
 ### Group Work Prep
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
-- [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+- [X] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
+  - [X] Add a link to your gist here:
+  https://gist.github.com/krdurrett/e9828be3f3b82561f8a8d23bae94dbbd
 
 ## All Done? How to Submit your M1 Prework
 When you have completed *ALL* the activities described above, follow the steps below to submit your technical prework.
@@ -87,4 +93,3 @@ What is your plan and how are you going to hold yourself to it? Specifically...
 
 ## Extensions
 Check out our thoughts on [extension activities](https://mod0.turing.io/prework/extensions) if you find yourself with some extra time before starting Mod 1!
-
